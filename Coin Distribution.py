@@ -1,3 +1,4 @@
+# To check whether the flipping of coins follow a normal distribution
 import numpy as np 
 import matplotlib.pyplot as plt 
 final = []
