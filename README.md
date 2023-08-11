@@ -8,3 +8,6 @@ If the dice shows 3, 4, or 5, you climb up by 1 step.
 If the dice shows 6, you roll the dice again and climb up by the number of steps shown.
 You cannot go below step 0.
 Additionally, there is a 0.1% chance of falling down the stairs and reaching step 0.
+
+# Analysis of Literacy Rate in India 
+As a part of my academic project, I looked into the impact of literacy on the overall growth of India over the decades since its Independence. I used Python to analyze the data and conduct regression to draw meaningful interpretations. My findings are attached as a report.
