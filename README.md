@@ -1,3 +1,6 @@
+# Analysis of Literacy Rate in India 
+As a part of my academic project, I looked into the impact of literacy on the overall growth of India over the decades since its Independence. I used Python to analyze the data and conduct regression to draw meaningful interpretations. My findings are attached as a report.
+
 # Coin Flip
 The Coin Flip Distribution Analysis project explores whether the outcome of flipping a fair coin follows a normal distribution. It includes a simulation of coin flips and visualization of data. By examining the distribution and comparing it to a normal distribution, the project aims to enhance understanding of the statistical behavior of coin flipping.
 
